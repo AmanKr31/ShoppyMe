@@ -1,16 +1,12 @@
 # ShoppyMe - An E-commerce Platform
 
-A dynamic e-commerce web application built with the MERN stack (MongoDB, Express.js, React.js, Node.js). ShoppyMe allows users to seamlessly browse products, register/login, manage carts, and place orders, while admins can manage products, view orders, and oversee the platform through a secure admin dashboard. The responsive design ensures optimal usability across devices.
+A dynamic e-commerce web application built with the HTML, CSS and Javascript. ShoppyMe allows users to seamlessly browse products, register/login, manage carts, and place orders, while admins can manage products, view orders, and oversee the platform through a secure admin dashboard. The responsive design ensures optimal usability across devices.
 
 ---
 
 ## Table of Contents
 - [Overview](#overview)  
-- [Features](#features)  
-- [Technology Stack](#technology-stack)  
-- [Installation](#installation)  
-- [Usage](#usage)  
-- [License](#license)  
+- [Features](#features)   
 - [Contact](#contact)  
 
 ---
@@ -33,13 +29,3 @@ ShoppyMe is designed as a fully functional e-commerce website that provides a sm
 
 ---
 
-## Technology Stack
-
-- **Frontend**: React.js, Redux Toolkit, Tailwind CSS  
-- **Backend**: Node.js, Express.js  
-- **Database**: MongoDB  
-- **Authentication**: JWT (JSON Web Token)  
-- **State Management**: Redux  
-- **Other Tools**: Postman (for API testing), Git & GitHub (for version control)
-
----
